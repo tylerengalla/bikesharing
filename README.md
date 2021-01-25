@@ -10,6 +10,26 @@ Explore NYC Citi bike data using Tableau with a goal of letting our investors kn
 ![](/images/numberofRides.png)
 
 
+![](/images/customerType.png)
+
+
+![](/images/bestTimes.png)
+
+
+![](/images/genderTimes.png)
+
+
+![](/images/userTripsbyWeekdayGender.png)
+
+
+![](/images/checkoutByGender.png)
+
+
+![](/images/topStarting.png)
+
+
+![](/images/topEnding.png)
+
 
 
 # Summary
