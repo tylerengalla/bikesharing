@@ -7,6 +7,7 @@ Explore NYC Citi bike data using Tableau with a goal of letting our investors kn
 
 # Results
 
+![](/images/numberofRides.png)
 
 
 
